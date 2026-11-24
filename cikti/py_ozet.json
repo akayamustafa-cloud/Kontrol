@@ -1,0 +1,20 @@
+{
+  "odeme": 1435,
+  "tahsilat": 705,
+  "IF_aykiri": 58,
+  "ag_kume": 5,
+  "bulanik": 3,
+  "lapping_zincir": 1,
+  "makbuz_bosluk": 4,
+  "benford_ilk_hane": {
+    "Test": "İlk hane",
+    "n": 1435,
+    "KiKare": 11.06,
+    "sd": 8,
+    "p_degeri": 0.19815665386393622,
+    "MAD": 0.00701,
+    "Nigrini": "Kabul edilebilir",
+    "KS": 0.0202,
+    "KS_kritik_05": 0.0359
+  }
+}

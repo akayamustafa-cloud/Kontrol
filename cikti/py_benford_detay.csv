@@ -1,0 +1,210 @@
+Test,Hane,Gozlenen,Beklenen,Z,Anlamli
+İlk hane,1,0.2878,0.30103,1.06,False
+İlk hane,2,0.17073,0.17609,0.5,False
+İlk hane,3,0.12334,0.12494,0.14,False
+İlk hane,4,0.11498,0.09691,2.27,True
+İlk hane,5,0.07666,0.07918,0.31,False
+İlk hane,6,0.0676,0.06695,0.05,False
+İlk hane,7,0.06202,0.05799,0.6,False
+İlk hane,8,0.05993,0.05115,1.45,False
+İlk hane,9,0.03693,0.04576,1.54,False
+İkinci hane,0,0.12474,0.11968,0.55,False
+İkinci hane,1,0.10383,0.11389,1.16,False
+İkinci hane,2,0.1115,0.10882,0.28,False
+İkinci hane,3,0.09895,0.10433,0.62,False
+İkinci hane,4,0.09338,0.10031,0.83,False
+İkinci hane,5,0.11916,0.09668,2.84,True
+İkinci hane,6,0.10523,0.09337,1.5,False
+İkinci hane,7,0.0899,0.09035,0.01,False
+İkinci hane,8,0.07038,0.08757,2.26,True
+İkinci hane,9,0.08293,0.085,0.23,False
+İlk iki hane,10,0.03833,0.04139,0.52,False
+İlk iki hane,11,0.03624,0.03779,0.24,False
+İlk iki hane,12,0.03624,0.03476,0.23,False
+İlk iki hane,13,0.02718,0.03218,1.0,False
+İlk iki hane,14,0.03275,0.02996,0.54,False
+İlk iki hane,15,0.02787,0.02803,-0.04,False
+İlk iki hane,16,0.02439,0.02633,0.38,False
+İlk iki hane,17,0.02369,0.02482,0.19,False
+İlk iki hane,18,0.02021,0.02348,0.73,False
+İlk iki hane,19,0.02091,0.02228,0.26,False
+İlk iki hane,20,0.01324,0.02119,2.0,True
+İlk iki hane,21,0.01951,0.0202,0.09,False
+İlk iki hane,22,0.02091,0.01931,0.34,False
+İlk iki hane,23,0.01742,0.01848,0.2,False
+İlk iki hane,24,0.01742,0.01773,-0.01,False
+İlk iki hane,25,0.01463,0.01703,0.6,False
+İlk iki hane,26,0.02509,0.01639,2.49,True
+İlk iki hane,27,0.01533,0.01579,0.03,False
+İlk iki hane,28,0.00976,0.01524,1.59,False
+İlk iki hane,29,0.01742,0.01472,0.74,False
+İlk iki hane,30,0.01742,0.01424,0.91,False
+İlk iki hane,31,0.01185,0.01379,0.52,False
+İlk iki hane,32,0.01185,0.01336,0.39,False
+İlk iki hane,33,0.01882,0.01296,1.84,False
+İlk iki hane,34,0.00697,0.01259,1.79,False
+İlk iki hane,35,0.01394,0.01223,0.47,False
+İlk iki hane,36,0.01045,0.0119,0.38,False
+İlk iki hane,37,0.00976,0.01158,0.52,False
+İlk iki hane,38,0.01254,0.01128,0.33,False
+İlk iki hane,39,0.00976,0.011,0.32,False
+İlk iki hane,40,0.01324,0.01072,0.8,False
+İlk iki hane,41,0.01115,0.01047,0.13,False
+İlk iki hane,42,0.01115,0.01022,0.22,False
+İlk iki hane,43,0.00906,0.00998,0.22,False
+İlk iki hane,44,0.00836,0.00976,0.4,False
+İlk iki hane,45,0.01603,0.00955,2.39,True
+İlk iki hane,46,0.01254,0.00934,1.12,False
+İlk iki hane,47,0.01463,0.00914,2.05,True
+İlk iki hane,48,0.00697,0.00895,0.66,False
+İlk iki hane,49,0.01185,0.00877,1.11,False
+İlk iki hane,50,0.01115,0.0086,0.9,False
+İlk iki hane,51,0.00836,0.00843,-0.12,False
+İlk iki hane,52,0.01045,0.00827,0.77,False
+İlk iki hane,53,0.00836,0.00812,-0.04,False
+İlk iki hane,54,0.00697,0.00797,0.28,False
+İlk iki hane,55,0.00836,0.00783,0.08,False
+İlk iki hane,56,0.00906,0.00769,0.44,False
+İlk iki hane,57,0.00488,0.00755,1.02,False
+İlk iki hane,58,0.00627,0.00742,0.35,False
+İlk iki hane,59,0.00279,0.0073,1.85,False
+İlk iki hane,60,0.01324,0.00718,2.56,True
+İlk iki hane,61,0.00836,0.00706,0.43,False
+İlk iki hane,62,0.00627,0.00695,0.15,False
+İlk iki hane,63,0.00836,0.00684,0.54,False
+İlk iki hane,64,0.00767,0.00673,0.27,False
+İlk iki hane,65,0.00697,0.00663,-0.0,False
+İlk iki hane,66,0.00836,0.00653,0.7,False
+İlk iki hane,67,0.00279,0.00643,1.56,False
+İlk iki hane,68,0.00139,0.00634,2.19,True
+İlk iki hane,69,0.00418,0.00625,0.83,False
+İlk iki hane,70,0.00627,0.00616,-0.11,False
+İlk iki hane,71,0.00348,0.00607,1.09,False
+İlk iki hane,72,0.00627,0.00599,-0.03,False
+İlk iki hane,73,0.00348,0.00591,1.03,False
+İlk iki hane,74,0.00418,0.00583,0.65,False
+İlk iki hane,75,0.00767,0.00575,0.78,False
+İlk iki hane,76,0.00836,0.00568,1.18,False
+İlk iki hane,77,0.00836,0.0056,1.22,False
+İlk iki hane,78,0.00627,0.00553,0.2,False
+İlk iki hane,79,0.00767,0.00546,0.95,False
+İlk iki hane,80,0.00767,0.0054,0.99,False
+İlk iki hane,81,0.00139,0.00533,1.87,False
+İlk iki hane,82,0.00488,0.00526,0.02,False
+İlk iki hane,83,0.00488,0.0052,-0.01,False
+İlk iki hane,84,0.00557,0.00514,0.05,False
+İlk iki hane,85,0.01533,0.00508,5.28,True
+İlk iki hane,86,0.00488,0.00502,-0.11,False
+İlk iki hane,87,0.00697,0.00496,0.89,False
+İlk iki hane,88,0.00418,0.00491,0.2,False
+İlk iki hane,89,0.00418,0.00485,0.18,False
+İlk iki hane,90,0.00418,0.0048,0.15,False
+İlk iki hane,91,0.00348,0.00475,0.5,False
+İlk iki hane,92,0.00348,0.0047,0.48,False
+İlk iki hane,93,0.00139,0.00464,1.62,False
+İlk iki hane,94,0.00348,0.0046,0.43,False
+İlk iki hane,95,0.00836,0.00455,1.95,False
+İlk iki hane,96,0.00209,0.0045,1.17,False
+İlk iki hane,97,0.00348,0.00445,0.35,False
+İlk iki hane,98,0.00279,0.00441,0.73,False
+İlk iki hane,99,0.00418,0.00436,-0.09,False
+Son iki hane (tam kısım),0,0.04321,0.01,12.51,True
+Son iki hane (tam kısım),1,0.00627,0.01,1.29,False
+Son iki hane (tam kısım),2,0.00697,0.01,1.02,False
+Son iki hane (tam kısım),3,0.01254,0.01,0.84,False
+Son iki hane (tam kısım),4,0.00836,0.01,0.49,False
+Son iki hane (tam kısım),5,0.01045,0.01,0.04,False
+Son iki hane (tam kısım),6,0.01394,0.01,1.37,False
+Son iki hane (tam kısım),7,0.00418,0.01,2.08,True
+Son iki hane (tam kısım),8,0.01115,0.01,0.31,False
+Son iki hane (tam kısım),9,0.01115,0.01,0.31,False
+Son iki hane (tam kısım),10,0.01185,0.01,0.57,False
+Son iki hane (tam kısım),11,0.01324,0.01,1.1,False
+Son iki hane (tam kısım),12,0.00906,0.01,0.23,False
+Son iki hane (tam kısım),13,0.00767,0.01,0.76,False
+Son iki hane (tam kısım),14,0.01185,0.01,0.57,False
+Son iki hane (tam kısım),15,0.00488,0.01,1.82,False
+Son iki hane (tam kısım),16,0.00906,0.01,0.23,False
+Son iki hane (tam kısım),17,0.00976,0.01,-0.04,False
+Son iki hane (tam kısım),18,0.01045,0.01,0.04,False
+Son iki hane (tam kısım),19,0.00767,0.01,0.76,False
+Son iki hane (tam kısım),20,0.00976,0.01,-0.04,False
+Son iki hane (tam kısım),21,0.00627,0.01,1.29,False
+Son iki hane (tam kısım),22,0.01115,0.01,0.31,False
+Son iki hane (tam kısım),23,0.01115,0.01,0.31,False
+Son iki hane (tam kısım),24,0.01045,0.01,0.04,False
+Son iki hane (tam kısım),25,0.01045,0.01,0.04,False
+Son iki hane (tam kısım),26,0.00627,0.01,1.29,False
+Son iki hane (tam kısım),27,0.00627,0.01,1.29,False
+Son iki hane (tam kısım),28,0.00976,0.01,-0.04,False
+Son iki hane (tam kısım),29,0.00348,0.01,2.35,True
+Son iki hane (tam kısım),30,0.00836,0.01,0.49,False
+Son iki hane (tam kısım),31,0.00836,0.01,0.49,False
+Son iki hane (tam kısım),32,0.00697,0.01,1.02,False
+Son iki hane (tam kısım),33,0.01045,0.01,0.04,False
+Son iki hane (tam kısım),34,0.01045,0.01,0.04,False
+Son iki hane (tam kısım),35,0.00906,0.01,0.23,False
+Son iki hane (tam kısım),36,0.01254,0.01,0.84,False
+Son iki hane (tam kısım),37,0.00767,0.01,0.76,False
+Son iki hane (tam kısım),38,0.01115,0.01,0.31,False
+Son iki hane (tam kısım),39,0.00906,0.01,0.23,False
+Son iki hane (tam kısım),40,0.01533,0.01,1.9,False
+Son iki hane (tam kısım),41,0.00976,0.01,-0.04,False
+Son iki hane (tam kısım),42,0.01045,0.01,0.04,False
+Son iki hane (tam kısım),43,0.00836,0.01,0.49,False
+Son iki hane (tam kısım),44,0.01185,0.01,0.57,False
+Son iki hane (tam kısım),45,0.00627,0.01,1.29,False
+Son iki hane (tam kısım),46,0.00976,0.01,-0.04,False
+Son iki hane (tam kısım),47,0.01115,0.01,0.31,False
+Son iki hane (tam kısım),48,0.01185,0.01,0.57,False
+Son iki hane (tam kısım),49,0.01185,0.01,0.57,False
+Son iki hane (tam kısım),50,0.01185,0.01,0.57,False
+Son iki hane (tam kısım),51,0.01115,0.01,0.31,False
+Son iki hane (tam kısım),52,0.01045,0.01,0.04,False
+Son iki hane (tam kısım),53,0.01463,0.01,1.63,False
+Son iki hane (tam kısım),54,0.00557,0.01,1.55,False
+Son iki hane (tam kısım),55,0.00557,0.01,1.55,False
+Son iki hane (tam kısım),56,0.01324,0.01,1.1,False
+Son iki hane (tam kısım),57,0.01324,0.01,1.1,False
+Son iki hane (tam kısım),58,0.00836,0.01,0.49,False
+Son iki hane (tam kısım),59,0.01185,0.01,0.57,False
+Son iki hane (tam kısım),60,0.00906,0.01,0.23,False
+Son iki hane (tam kısım),61,0.01394,0.01,1.37,False
+Son iki hane (tam kısım),62,0.01394,0.01,1.37,False
+Son iki hane (tam kısım),63,0.00836,0.01,0.49,False
+Son iki hane (tam kısım),64,0.01742,0.01,2.69,True
+Son iki hane (tam kısım),65,0.00906,0.01,0.23,False
+Son iki hane (tam kısım),66,0.01254,0.01,0.84,False
+Son iki hane (tam kısım),67,0.00906,0.01,0.23,False
+Son iki hane (tam kısım),68,0.00836,0.01,0.49,False
+Son iki hane (tam kısım),69,0.00488,0.01,1.82,False
+Son iki hane (tam kısım),70,0.00836,0.01,0.49,False
+Son iki hane (tam kısım),71,0.00697,0.01,1.02,False
+Son iki hane (tam kısım),72,0.01463,0.01,1.63,False
+Son iki hane (tam kısım),73,0.00836,0.01,0.49,False
+Son iki hane (tam kısım),74,0.00906,0.01,0.23,False
+Son iki hane (tam kısım),75,0.00906,0.01,0.23,False
+Son iki hane (tam kısım),76,0.00906,0.01,0.23,False
+Son iki hane (tam kısım),77,0.00767,0.01,0.76,False
+Son iki hane (tam kısım),78,0.01115,0.01,0.31,False
+Son iki hane (tam kısım),79,0.00697,0.01,1.02,False
+Son iki hane (tam kısım),80,0.00488,0.01,1.82,False
+Son iki hane (tam kısım),81,0.01254,0.01,0.84,False
+Son iki hane (tam kısım),82,0.01045,0.01,0.04,False
+Son iki hane (tam kısım),83,0.00767,0.01,0.76,False
+Son iki hane (tam kısım),84,0.01045,0.01,0.04,False
+Son iki hane (tam kısım),85,0.00836,0.01,0.49,False
+Son iki hane (tam kısım),86,0.01254,0.01,0.84,False
+Son iki hane (tam kısım),87,0.00836,0.01,0.49,False
+Son iki hane (tam kısım),88,0.00767,0.01,0.76,False
+Son iki hane (tam kısım),89,0.01115,0.01,0.31,False
+Son iki hane (tam kısım),90,0.00836,0.01,0.49,False
+Son iki hane (tam kısım),91,0.00767,0.01,0.76,False
+Son iki hane (tam kısım),92,0.00906,0.01,0.23,False
+Son iki hane (tam kısım),93,0.00836,0.01,0.49,False
+Son iki hane (tam kısım),94,0.01115,0.01,0.31,False
+Son iki hane (tam kısım),95,0.00767,0.01,0.76,False
+Son iki hane (tam kısım),96,0.01185,0.01,0.57,False
+Son iki hane (tam kısım),97,0.00697,0.01,1.02,False
+Son iki hane (tam kısım),98,0.00906,0.01,0.23,False
+Son iki hane (tam kısım),99,0.01254,0.01,0.84,False

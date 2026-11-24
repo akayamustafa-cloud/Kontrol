@@ -1,0 +1,5 @@
+Test,n,KiKare,sd,p_degeri,MAD,Nigrini,KS,KS_kritik_05
+İlk hane,1435,11.06,8,0.19815665386393622,0.00701,Kabul edilebilir,0.0202,0.0359
+İkinci hane,1435,17.34,9,0.04364817737394395,0.00841,Kabul edilebilir,0.0197,0.0359
+İlk iki hane,1435,130.77,89,0.002627828794252851,0.00222,UYUMSUZ,0.024,0.0359
+Son iki hane (tam kısım),1435,256.5,99,6.42694055024865e-16,0.00246,-,0.0333,0.0359

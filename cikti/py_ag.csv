@@ -1,0 +1,6 @@
+Kume,Uyeler,UyeSayisi,BagTurleri,Risk
+K01,"T:V001, T:V064",2,"Adres, VKN",Orta – tedarikçiler arası
+K02,"T:V016, T:V066",2,IBAN,Orta – tedarikçiler arası
+K03,"P:P017, T:V061",2,IBAN,YÜKSEK – personel/tedarikçi bağı
+K04,"P:P033, T:V062",2,"Adres, Telefon",YÜKSEK – personel/tedarikçi bağı
+K05,"P:P012, P:P079",2,IBAN,Orta – personeller arası (hayalet personel?)
